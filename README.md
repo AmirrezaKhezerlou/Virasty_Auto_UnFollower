@@ -13,6 +13,10 @@ pip install tkinter
 دانلود گوگل کروم 126:
 https://dl2.soft98.ir/soft/g/Google.Chrome.126.0.6478.127.x64.zip?1719925338
 دانلود فایل نهایی آنفالویاب ویراستی :
+https://github.com/AmirrezaKhezerlou/Virasty_Auto_UnFollower/releases/download/v/UnFollowYabVirasty.zip
+دانلود فایل درایور برای نسخه های دیگر کروم : 
+https://developer.chrome.com/docs/chromedriver
+
 
 
 
